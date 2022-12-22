@@ -1,3 +1,5 @@
+Medium Blog: [How to Train and Deploy A Custom BERT Model using Amazon SageMaker](https://medium.com/@dwliuliu/how-to-train-and-deploy-a-custom-bert-model-using-amazon-sagemaker-c4f80705aa6)
+
 ### How to Train and Deploy A Custom BERT Model using Amazon SageMaker
 
 Amazon Sagemaker is a machine learning platform for every developer and data scientist which enables developers to create, train, and deploy machine learning (ML) models in the cloud[ ](https://en.wikipedia.org/wiki/Amazon_SageMaker#cite_note-:6-2)and also enables developers to deploy ML models on embedded systems and edge-devices.Sagemaker offers built-in algorithms and scripting modes for training models.
